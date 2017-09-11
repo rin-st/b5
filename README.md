@@ -1,0 +1,1 @@
+When you submit a FormData object that includes a file upload, you will receive the file size in bytes within the JSON response
